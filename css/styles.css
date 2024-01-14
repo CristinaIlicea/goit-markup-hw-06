@@ -804,7 +804,7 @@ img {
     stroke-width: 1px;
     stroke: var(--brand-color-navvy-blue);
 }
-.user-privacy:checked + .checkbox-container span:first-child {
+.user-privacy:checked + .terms-text span:first-child {
     background-color: var(--brand-color-ocean);
     border: none;
     fill: var(--brand-color-cloud);
