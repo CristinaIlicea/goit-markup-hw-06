@@ -803,7 +803,6 @@ img {
 }
 .checkbox-icon{
     stroke-width: 1px;
-    stroke: var(--brand-color-navvy-blue);
 }
 .user-privacy:checked + .terms-text span:first-child {
     background-color: var(--brand-color-ocean);
