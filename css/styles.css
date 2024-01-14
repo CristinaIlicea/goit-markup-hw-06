@@ -596,9 +596,9 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
@@ -642,10 +642,7 @@ img {
     border-radius: 4px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-content {
-    flex-shrink: 0;
 
-}
 .button-modal {
     position: absolute;
     width: 24px;
